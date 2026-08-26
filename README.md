@@ -37,7 +37,5 @@ Identifies **which timesteps in the 30-cycle sequence are more important** for t
 
 ### Dense Layer
 Converts the learned representation into the final **continuous RUL value**.
----
 
-## 🔄 Process
 
