@@ -1,5 +1,18 @@
+.venv/
 venv/
 __pycache__/
-*.pyc
 .ipynb_checkpoints/
+
+*.pyc
 .env
+
+# Python cache
+*.pyo
+
+# Large ML artifacts
+*.keras
+*.pkl
+*.h5
+
+# Dataset
+dataset/
